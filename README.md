@@ -7,4 +7,4 @@ Steps to install and run the project
 # Usage
 Examples of how to use the project
 # Authors
-Sarah Al-Areebi & Praise Olaniyi
+Sarah Al-Areebi, Praise Olaniyi, and Micheal Makinde
