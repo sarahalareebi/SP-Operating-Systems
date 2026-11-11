@@ -5,7 +5,7 @@ Word and character counter
 Operating Systems project
 
 In this project, we will be doing a word and character counter developed with the use of 
-bash shell scripting in linux.
+bash shell scripting in Linux.
 
 The purpose of this project is to create a menu-driven program that allows users to enter 
 texts manually or load text from a file. This program will analyze the text and provide 
