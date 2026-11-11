@@ -21,11 +21,10 @@ The main objectives of our project are to:
 - Create a menu that’s interactive for navigating through the program
 - Display texts statistics and save results to a file
 List of who is doing what in this project:
-Sarah (me): Advanced Word analysis
+Sarah: Advanced Word analysis
 I will be responsible for implementing unique word counting’s, word frequency and 
 analyzing, identifying the most common word, searching for the longest and shortest 
 words, and calculating average word length.
-
 Praise: Text input and basic counting
 Praise will be responsible for implementing manual text input, text files, counting words, 
 characters, sentences paragraphs and lines.
